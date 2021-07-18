@@ -1,3 +1,2 @@
-"# Wizixo-Website" 
-"# Wizixo-Website" 
-"# Wizixo-Website" 
+Wizixo Website Clone using HTML, CSS, Bootstrap, JavaScript.
+
